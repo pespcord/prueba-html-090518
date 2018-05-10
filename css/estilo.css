@@ -1,0 +1,171 @@
+
+
+.navbar.navbar-default.navbar__background {
+   background-color: #1c8ad2;
+   background: #1c8ad2;
+   border-color: #1c8ad2;
+   margin-bottom: 0;
+   border-radius: 0;
+}
+.navbar-fixed-top {
+	position: fixed;
+	width: 100%;
+	z-index: 999;
+}
+
+/*estilos barra nav*/
+.navbar__ninocancer-header {
+	padding: 1em 0;
+}
+.navbar__ninocancer-header-logotipo img {
+	width: 15em;
+	margin-top: -21px;
+}
+.navbar-default .navbar-nav>li>a {
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+    font-size: 1em;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+.navbar-default .navbar-nav>li>a:hover {
+	color: #2c648a;
+} 
+
+/*estilos seccion slide*/
+.carrusel-foto-1 {
+	background-image: url(../img/frame1.jpg);
+
+}
+.carrusel-foto-2 {
+	background-image: url(../img/frame2.jpg);
+}
+.carrusel-foto-3 {
+	background-image: url(../img/frame3.jpg);
+}
+.carrusel-foto-1, .carrusel-foto-2, .carrusel-foto-3 {
+	min-height: 600px;
+	background-size: cover;
+	width: 100%;
+}
+.padding0 {
+	padding: 0;
+}
+
+/*estilos noticias*/
+
+.img-bloques {
+	padding: 20px;
+    margin-bottom: 20px;
+    border: 2px solid #eaeaea;
+    border-radius: 10px;
+    text-align: center;
+}
+.img-thumbnail {
+	/*padding: 0;*/
+	overflow: hidden;
+}
+.far.fa-star {
+	color: #1c8ad2;
+	font-size: 1em;
+}
+.fas.fa-envelope-open {
+	color: #1c8ad2;
+	font-size: 1em;
+}
+.news__ninocancer  {
+	padding: 4em 0;
+	text-align: center;
+}
+.news__ninocancer h1 {
+	font-family: 'Lato', sans-serif;
+    font-size: 2em;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+.news__ninocancer-linea {
+	width: 100%;
+	border: 0.4px solid #eaeaea;
+}
+.news__ninocancer-txt h2 {
+	font-family: 'Lato', sans-serif;
+    font-size: 1.6em;
+    font-weight: regular;
+    color: #999;
+
+}
+.news__ninocancer-txt h3 {
+	font-family: 'Lato', sans-serif;
+    font-size: 1.6em;
+    font-weight: regular;
+    color: #999;
+
+}
+.news__ninocancer-txt p {
+	font-family: 'Lato', sans-serif;
+    font-size: 1em;
+    font-weight: lighter;
+    color: #999;
+
+}
+/*estilos form*/
+.form__ninocancer {
+	margin-bottom: 3em;
+}
+
+/*estilos footer*/
+.footer__ninocancer {
+	background-color: #334048;
+}
+.footer__ninocancer-logo img {
+    width: 18em;
+    padding-top: 5em;
+}
+.footer__ninocancer-txt h2  {
+	color:#1c89d3;
+	font-family: 'Lato', sans-serif;
+    font-size: 1.6em;
+    font-weight: lighter;
+}
+.fas.fa-envelope-square {
+	margin-right: 0.5em;
+}
+.footer__ninocancer-txt-rs {
+	margin-left: 2em;
+}
+
+.footer__ninocancer-txt p {
+	color:#fff;
+	font-family: 'Lato', sans-serif;
+    font-size: 1em;
+    font-weight: lighter;
+}
+.footer__ninocancer-mapa {
+	margin-top: 1em;
+}
+.footer__ninocancer-rs {
+	background-color: #333;
+	padding: 3em;
+}
+/*quienes somos*/
+.somos__ninoscancer {
+	background: url('../img/quienes-somos.jpg') no-repeat center;
+	margin-top: 4em;
+
+}
+.somos__ninoscancer,.blog__ninoscancer h1 {
+	color:#fff;
+	font-family: 'Lato', sans-serif;
+    font-size: 4em;
+    font-weight: lighter;
+    text-transform: uppercase;
+   	padding: 1em
+}
+.blog__ninoscancer {
+	background: url('../img/blog.jpg') no-repeat center;
+	margin-top: 4em;
+
+}
+.blog__ninoscancer {
+
+}
